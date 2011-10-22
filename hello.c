@@ -12,7 +12,7 @@ const int samrin_babo = 2;
 
 int main()
 {
-  if samrin_babo == 1
+  if (samrin_babo == 1)
     printf("hello from Samra Husremovic");
   else
     printf("hello from neka druga Samra");
